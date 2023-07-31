@@ -1,0 +1,2 @@
+1.mp4 filter=lfs diff=lfs merge=lfs -text
+assets/ing/portofolio/1.mpa filter=lfs diff=lfs merge=lfs -text
